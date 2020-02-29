@@ -20,3 +20,7 @@ Manage Website Pages||
 Manage to Contact us Queries||
 Update the contact us Info|\
 Admin Dashboard||
+
+![](bdms1.png)
+![](bdms2.png)
+![](bdms3.png)
