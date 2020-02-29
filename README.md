@@ -6,17 +6,17 @@ Blood Bank &amp; Donor Management System. Language Used :  PHP,Database :  My SQ
 2.create database in XMAPP by the name of bdms 
 3. admin password: Test@12345
 
-Responsive Template, Mobile Friendly
-Easy to use
-Blood Donor Registration System
-Blood Group and location-based search engine
-Donor Details Information
-Contact us Inquiry
+Responsive Template, Mobile Friendly||
+Easy to use||
+Blood Donor Registration System||
+Blood Group and location-based search engine||
+Donor Details Information||
+Contact us Inquiry||
 
-Manage Blood Group(add, delete)
-Add and Delete Donor Information
-Enable and Disable Donors
-Manage Website Pages
-Manage to Contact us Queries
-Update the contact us Info
-Admin Dashboard
+Manage Blood Group(add, delete)||
+Add and Delete Donor Information||
+Enable and Disable Donors||
+Manage Website Pages||
+Manage to Contact us Queries||
+Update the contact us Info|\
+Admin Dashboard||
